@@ -28,4 +28,4 @@ else increase count of dropped eggs.
 
 End the loop and see which floor eggs broke and how many eggs were dropped so far
 
-Based on the information, this alogrithm have best of case O(1) where it will be same floor no matter N story building otherwise  it will logarithmic as floor needs to be calulated based on height difference of floor based on input.  
+Based on the information, this alogrithm have best of case O(1) where it will be same floor no matter N story building otherwise it will linear O(n) as floor needs to be calulated based on height difference of floor based on input and then find the floor  

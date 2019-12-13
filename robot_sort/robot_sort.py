@@ -97,6 +97,12 @@ class SortingRobot:
         Sort the robot's list.
         """
         # Fill this out
+        
+        # Robot needs to sort a list, based on its movement 
+        # it can do a quick sort algorithm
+        # Robot's light can be used for determining pivot for quick sort
+        # 
+
         pass
 
 
