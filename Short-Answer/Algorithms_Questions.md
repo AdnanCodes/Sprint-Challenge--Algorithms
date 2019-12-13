@@ -1,4 +1,4 @@
-# Analysis of Algorithms
+# Analysis of Algorithms - Adnan Chowdhury
 
 ## Exercise I
 
