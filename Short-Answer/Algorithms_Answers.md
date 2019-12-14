@@ -4,6 +4,8 @@
 
 a) This is logarithmic -> O(log n). As input becomes bigger, it will slightly take more time to add numbers for 'a' before while loop stops
 
+Correct Answer - O n, as math is inside of while loop has 
+
 
 b) This is linearithmic -> O(n log n) as input becomes bigger, first inner loop will take same amount of time every pass but 2nd inner loop of while will increase in runtime, first loop is linear and second loop depends on n thus becoming logarithmic 
 
